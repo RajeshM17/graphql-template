@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+<h1 align="center">graphql-template</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ <p align="center">
+ 	
+	GraphQL Querying and Mutation
+	
+  </p>
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues/RajeshM17/graphql-template?style=for-the-badge)](https://github.com/RajeshM17/graphql-template/issues)
+[![GitHub forks](https://img.shields.io/github/forks/RajeshM17/graphql-template?style=for-the-badge)](https://github.com/RajeshM17/graphql-template/network)
+[![GitHub stars](https://img.shields.io/github/stars/RajeshM17/graphql-template?style=for-the-badge)](https://github.com/RajeshM17/graphql-template/stargazers)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/RajeshM17/graphql-template?style=for-the-badge)
+[![GitHub license](https://img.shields.io/github/license/RajeshM17/graphql-template?style=for-the-badge)](https://github.com/RajeshM17/graphql-template)
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<hr />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="center">
+	GraphQL Querying and Mutation
+</p>
 
-### `npm test`
+## 🧐About
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+	GraphQL Querying and Mutation
 
-### `npm run build`
+## 💡Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. [Fetching Dynamic data from .json file]()
+2. [Querying]()
+3. [Mutations]()
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ⛏️Built with
 
-### `npm run eject`
+- [ReactJS]()
+- [Apollo Client]()
+- [NodeJS]()
+- [GraphQL]()
+## 🏁Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+These instructions will help you to setup your own copy of graphql-template on your local machine for development and testing purposes. See [deployment](#Deployment) for notes on how to deploy the project on a live system.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 📚Prerequisite
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Node]()
+- [NPM]()
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### 🧰Installation
 
-## Learn More
+1. [Clone this repo]()
+2. [Install all the dependencies]()
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+   $npm install
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3.   ```bash
+   $npm start
+   ```
 
-### Code Splitting
+## 🚀Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. [Create a new repo]()
+1. [Push your code to it]()
+1. [Create New Project on your [Vercel Dashboard](https://vercel.com/dashboard)]()
+1. [Import your Git Repository]()
+1. [After successful import, changes made to the Production Branch (commonly "main/master") will be a Production Deployment and rest all branches will generate Preview Deployments]()
+1. [Once deployed, you will get a URL for your live app, such as: `https://xyz.vercel.app`]()
 
-### Analyzing the Bundle Size
+## 📝Todo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Adding styles]()
+- [Making reusable components]()
 
-### Making a Progressive Web App
+## 📈Future Plans
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- [Making it a Dapp]()
 
-### Advanced Configuration
+## ✍️Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [@RajeshM17]()
 
-### Deployment
+## 📖Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**_"In real open source, you have the right to control your own destiny."_** _- Linus Torvalds_
 
-### `npm run build` fails to minify
+Contributions are what make the open source community an amazing place. Any contributions you make are **greatly appreciated**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 💳License
+
+Distributed under the MIT License. See [`LICENSE`](LICENCE) for more information.
+
+## 🧬Resources
+
+- [ReactJS](https://reactjs.org/docs)
+- [GraphQL](https://graphql.org/code/#javascript)
+- [Apollo Client](https://www.apollographql.com/docs/react/)
+
+## 🎉Acknowledgement
+
+- [Shields](https://shields.io)
+- [Choose License for your Project](https://choosealicense.com)
