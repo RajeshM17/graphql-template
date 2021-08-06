@@ -58,7 +58,7 @@ These instructions will help you to setup your own copy of graphql-template on y
    $npm install
    ```
 
-3.   ```bash
+   ```bash
    $npm start
    ```
 
